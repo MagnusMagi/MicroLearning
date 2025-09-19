@@ -1,0 +1,8 @@
+streamlit
+requests
+streamlit-shadcn-ui
+streamlit-authenticator
+streamlit-option-menu
+streamlit-lottie
+st-paywall
+streamlit-shap
