@@ -6,3 +6,5 @@ streamlit-option-menu
 streamlit-lottie
 st-paywall
 streamlit-shap
+streamlit-webrtc
+plotly

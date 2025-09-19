@@ -7,3 +7,9 @@ soundfile
 python-multipart
 jiwer
 python-Levenshtein
+openai-whisper
+torch
+torchaudio
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
